@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I am working currently on **Social Media Application**
+ 🔭 I am currently working on **Django for backend services**
  
- 🌱 I’m currently learning **Reactjs, Tailwindcss, Nodejs, MongoDB**
+ 🌱 I have recently worked on **MERN Stack**
 
  💬 Ask me about **React,HTML,MongoDB**
  
