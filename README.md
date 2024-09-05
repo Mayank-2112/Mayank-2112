@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am currently working on **Django for backend services**
+ 🔭 I am currently working on **FastAPI for backend services**
  
  🌱 I have recently worked on **MERN Stack**
 
