@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am currently working on **FastAPI for backend services**
+ 🔭 I am currently learning on *NextJs* and *Typescript*
  
  🌱 I have recently worked on **MERN Stack**
 
